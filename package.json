@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "css-parse": "1.7.x",
-    "mkdirp": "0.5.x",
+    "mkdirp": "1.0.0",
     "debug": "*",
     "sax": "0.5.x",
     "glob": "3.2.x",
